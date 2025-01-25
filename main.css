@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    background-color: darkred;
+    color: white;
+    align-items: center;
+    text-align: center;
+    gap: 1rem;
+}
+main{
+    display: flex;
+    gap: 1rem;
+    text-align: center;
+}
+
+.park{
+    color: #ffffff;
+    background-color: #000000;
+    margin: 0;
+}
+.garden{
+    background-color: #dd0000;
+    margin: 0;
+}
+.odeonsplatz{
+    background-color: #ffcc00;
+    margin: 0;
+}
+footer {
+    padding:1rem;
+    background-color: darkred;
+    color: #ffffff;
+}
