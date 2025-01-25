@@ -12,20 +12,24 @@ main{
     display: flex;
     gap: 1rem;
     text-align: center;
+    
 }
 
 .park{
     color: #ffffff;
     background-color: #000000;
     margin: 0;
+    flex:1;
 }
 .garden{
     background-color: #dd0000;
     margin: 0;
+    flex:1;
 }
 .odeonsplatz{
     background-color: #ffcc00;
     margin: 0;
+    flex:1;
 }
 footer {
     padding:1rem;
