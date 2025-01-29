@@ -6,9 +6,9 @@ header{
     color: white;
     align-items: center;
     text-align: center;
-    font-family: "Anton", serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: 100;
-    font-style: normal;
+    font-family: "Anton", serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+body {
+    background-color: wheat;
 }
 main{
     display: flex;
@@ -16,7 +16,10 @@ main{
     text-align: center; 
 }
 p {
-    margin:1.5em;
+    margin:1.5rem;
+}
+img {
+    margin:1rem;
 }
 
 .park{
@@ -26,7 +29,7 @@ p {
     flex:1;
 }
 .garden{
-    background-color: #dd0000;
+    background-color: #ff0606;
     margin: 0;
     flex:1;
 }
